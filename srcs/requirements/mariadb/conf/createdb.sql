@@ -1,0 +1,6 @@
+-- CREATE DATABASE Inital;
+-- CREATE USER 'ju' IDENTIFIED BY 'ju';
+-- GRANT ALL PRIVILEGES ON Inital.* TO 'ju';
+-- FLUSH PRIVILEGES;
+
+-- ALTER USER 'root'@'localhost' IDENTIFIED BY 'dask231j';
